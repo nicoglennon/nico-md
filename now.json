@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "name": "Nico Glennon",
+  "builds": [
+    {
+      "src": "*.css",
+      "use": "@now/static"
+    },
+    {
+      "src": "*.jpg",
+      "use": "@now/static"
+    },
+    {
+      "src": "*.ico",
+      "use": "@now/static"
+    },
+    {
+      "src": "**/*.md",
+      "use": "@now/md",
+      "config": {
+        "title": "Nico Glennon",
+        "language": "en",
+        "meta": [
+          { "property": "description", "content": "I design & code things."},
+          { "property": "og:url", "content": "https://nico.gl"},
+          { "property": "og:type", "content": "website"},
+          { "property": "og:title", "content": "Nico Glennon"},
+          { "property": "og:description", "content": "I design & code things."},
+          { "property": "og:image", "content": "https://nico.gl/suzy.jpg"},
+          { "property": "twitter:card", "content": "summary_large_image"},
+          { "property": "twitter:url", "content": "https://nico.gl"},
+          { "property": "twitter:title", "content": "Nico Glennon"},
+          { "property": "twitter:description", "content": "I design & code things."},
+          { "property": "twitter:image", "content": "https://nico.gl/suzy.jpg"}
+        ],
+        "css": "/style.css"
+      }
+    }
+  ]
+}
