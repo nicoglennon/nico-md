@@ -26,6 +26,12 @@ While at IBM I learned to develop in Salesforce and wrote some documentation for
 
 **[Felist](http://feli.st)** is a minimal organizer. I hated having to decide between a bunch of todo-list apps that were complete overkills for what I needed (I even [wrote a semi-popular post](https://medium.com/the-mission/searching-for-the-perfect-to-do-list-app-934a04f6328) about). So here's a sleek & minimal app to save you and me from todo-list oblivion.
 
+## 📚 Tutoring
+
+I'm one of the top programming tutors on [Wyzant](https://www.wyzant.com)! I'm the top search result for HTML, JavaScript, Ruby, etc. I even got my own URL: [wyzant.com/tutors/nico](https://wyzant.com/tutors/nico).
+
+I love to learn different technologies by getting involved in other people's pet projects. If you're interested, email me at **hi@nico.gl** for more info.
+
 ---
 
 [← Back](/)
