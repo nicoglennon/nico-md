@@ -29,7 +29,7 @@
           { "property": "og:description", "content": "Hi! I'm Nico" },
           {
             "property": "og:image",
-            "content": "https://media.giphy.com/media/1iUMeuW2KwUJNAcv8t/giphy.gif"
+            "content": "https://media.tumblr.com/aa260826d741b6b571c4143b4b72117d/tumblr_ohtnjdaKbV1uojky7o2_r1_540.gifv"
           },
           { "property": "twitter:card", "content": "summary_large_image" },
           { "property": "twitter:url", "content": "https://nico.gl" },
@@ -37,7 +37,7 @@
           { "property": "twitter:description", "content": "Hi! I'm Nico" },
           {
             "property": "twitter:image",
-            "content": "https://media.giphy.com/media/1iUMeuW2KwUJNAcv8t/giphy.gif"
+            "content": "https://media.tumblr.com/aa260826d741b6b571c4143b4b72117d/tumblr_ohtnjdaKbV1uojky7o2_r1_540.gifv"
           }
         ],
         "css": "/style.css"
