@@ -26,10 +26,13 @@
           { "property": "og:url", "content": "https://nico.gl" },
           { "property": "og:type", "content": "website" },
           { "property": "og:title", "content": "Nico Glennon" },
-          { "property": "og:description", "content": "Hi! I'm Nico" },
+          {
+            "property": "og:description",
+            "content": "I design & code things."
+          },
           {
             "property": "og:image",
-            "content": "https://media.tumblr.com/aa260826d741b6b571c4143b4b72117d/tumblr_ohtnjdaKbV1uojky7o2_r1_540.gif"
+            "content": "https://i.pinimg.com/originals/e7/4b/87/e74b87ef8486bc21ecfdf2e036999ad2.gif"
           },
           { "property": "twitter:card", "content": "summary_large_image" },
           { "property": "twitter:url", "content": "https://nico.gl" },
@@ -37,7 +40,7 @@
           { "property": "twitter:description", "content": "Hi! I'm Nico" },
           {
             "property": "twitter:image",
-            "content": "https://media.tumblr.com/aa260826d741b6b571c4143b4b72117d/tumblr_ohtnjdaKbV1uojky7o2_r1_540.gif"
+            "content": "https://i.pinimg.com/originals/e7/4b/87/e74b87ef8486bc21ecfdf2e036999ad2.gif"
           }
         ],
         "css": "/style.css"
