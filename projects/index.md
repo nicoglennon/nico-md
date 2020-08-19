@@ -10,9 +10,9 @@ The idea came from a personal process I've been doing myself for the past few mo
 
 I run the **React.js Green Bay meetup** — you can check out some of my presentations about [interacting with databases](https://www.youtube.com/watch?v=HVdMhKN2ng4&list=PL6ubUCP07zW6_AyMYUNohwKq2NQDlZigO&index=1), the [history of React state](https://www.youtube.com/watch?v=3bucBLOSUt0&list=PL6ubUCP07zW6_AyMYUNohwKq2NQDlZigO&index=3), or [integrating Storybook](https://www.youtube.com/watch?list=PL6ubUCP07zW6_AyMYUNohwKq2NQDlZigO&v=p2sZKAPOQXs&feature=emb_title). More info at the [Meetup](https://www.meetup.com/reactjs-green-bay/) page.
 
-## ⛰ Sucursal
+## 🔮 Someday
 
-A group of friends and I, all now living & working outside of our home country of Colombia, got together in 2020 and started **Sucursal**, a remote non-profit organization looking to accelerate our country's long-term economic progress via access to education. We are launching very soon, so more info to come.
+An iOS app built for those of us living one day at a time. Built in React Native, coming soon to the App Store.
 
 ## 🐀 Few York
 
@@ -25,6 +25,10 @@ I've only had time to design a handful of SF ones (which I really like), but mor
 With **[Zen](http://zen.glitch.me),** I wanted to create a small set of 'rooms' that would take me somewhere peaceful. I was feeling some stress at the time and wished there was something pretty but boring to fall into for a quick mental break.
 
 It's built using [three.js](http://threejs.org) and runs on [Glitch](http://glitch.com), a really cool platform to build small projects.
+
+## ⛰ Sucursal
+
+A group of friends and I, all now living & working outside of our home country of Colombia, got together in 2020 and started **[Sucursal](https://sucursal.org)**, a remote non-profit organization looking to accelerate our country's long-term economic progress via access to education.
 
 ## ☁️ Salesforce Starter
 
