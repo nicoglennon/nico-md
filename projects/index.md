@@ -12,7 +12,7 @@ I run the **React.js Green Bay meetup** — you can check out some of my present
 
 ## 🔮 Someday
 
-An iOS app built for those of us living one day at a time. Built in React Native, coming soon to the App Store.
+An iOS app made for those of us living one day at a time. Coming soon to the App Store.
 
 ## 🐀 Few York
 
