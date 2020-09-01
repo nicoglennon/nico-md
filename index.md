@@ -1,6 +1,6 @@
 `/`
 
-Hi! I'm [Nico](https://twitter.com/nicoglennon). I design & code things.
+Hi! I'm [Nico](https://twitter.com/nicogl_). I design & code things.
 
 ![](https://i.pinimg.com/originals/e7/4b/87/e74b87ef8486bc21ecfdf2e036999ad2.gif)
 
