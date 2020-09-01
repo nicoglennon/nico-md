@@ -6,29 +6,23 @@
 
 The idea came from a personal process I've been doing myself for the past few months to track & quantify my life on a weekly basis — although the first version was a spreadsheet with a bunch of formulas, I thought I had enough feature ideas to justify building a standalone product.
 
+## 🔮 Someday
+
+An iOS app made for those of us living one day at a time. Coming soon to the App Store!
+
+## 🐀 Another Day in the Simulation
+
+Inspired by Elon's _Occupy Mars_ t-shirt, I created [**ADITS**](http://adits.world) in 2020 after spending too much time thinking about the simulation theory while on lockdown. First collection is out (Classic), with more coming in the near future. Cop it at [adits.world](http://adits.world).
+
 ## 🧬 React.js
 
 I run the **React.js Green Bay meetup** — you can check out some of my presentations about [interacting with databases](https://www.youtube.com/watch?v=HVdMhKN2ng4&list=PL6ubUCP07zW6_AyMYUNohwKq2NQDlZigO&index=1), the [history of React state](https://www.youtube.com/watch?v=3bucBLOSUt0&list=PL6ubUCP07zW6_AyMYUNohwKq2NQDlZigO&index=3), or [integrating Storybook](https://www.youtube.com/watch?list=PL6ubUCP07zW6_AyMYUNohwKq2NQDlZigO&v=p2sZKAPOQXs&feature=emb_title). More info at the [Meetup](https://www.meetup.com/reactjs-green-bay/) page.
 
-## 🔮 Someday
-
-An iOS app made for those of us living one day at a time. Coming soon to the App Store.
-
-## 🐀 Few York
-
-Inspired by Elon's _Occupy Mars_ t-shirt, I created [**@fewyork**](http://fewyork.com) in 2018 after being caught in the middle of the friendly rivalry between the west and east-coast biz worlds. I thought it would be cool to design two collections — one based on a SF startup mindset and the other based on a NYC finance mindset.
-
-I've only had time to design a handful of SF ones (which I really like), but more are on the way. Email me at **hi@fewyork.com** if you have any design ideas!
-
 ## 🎏 Zen
 
-With **[Zen](http://zen.glitch.me),** I wanted to create a small set of 'rooms' that would take me somewhere peaceful. I was feeling some stress at the time and wished there was something pretty but boring to fall into for a quick mental break.
+With **[Zen](http://zen.glitch.me),** I wanted to create a small set of 'rooms' that would take me somewhere peaceful. I was feeling a lot of stress at the time and wished there was something pretty but boring to fall into for a quick mental break.
 
 It's built using [three.js](http://threejs.org) and runs on [Glitch](http://glitch.com), a really cool platform to build small projects.
-
-## ⛰ Sucursal
-
-A group of friends and I, all now living & working outside of our home country of Colombia, got together in 2020 and started **[Sucursal](https://sucursal.org)**, a remote non-profit organization looking to accelerate our country's long-term economic progress via access to education.
 
 ## ☁️ Salesforce Starter
 
