@@ -2,11 +2,11 @@
 
 [hi@nico.gl](mailto:hi@nico.gl)
 
-[Twitter](https://twitter.com/nicoglennon)
+[Twitter](https://twitter.com/sadbanger)
 
 [Github](https://github.com/nicoglennon)
 
-[Linkedin](https://linkedin.com/in/nicoglennon)
+[Linkedin](https://linkedin.com/in/nicogl)
 
 [Medium](https://medium.com/@nicoglennon)
 

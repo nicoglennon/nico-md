@@ -10,13 +10,17 @@ The idea came from a personal process I've been doing myself for the past few mo
 
 An iOS app made for those of us living one day at a time. Coming soon to the App Store!
 
+## 💖 Emosh
+
+[Emosh](https://emosh.substack.com) is a personally-curated 7-track playlist dropping every week. Subscribe [here](https://emosh.substack.com) to get it right in your inbox on Tuesday mornings.
+
 ## 🐀 Another Day in the Simulation
 
-Inspired by Elon's _Occupy Mars_ t-shirt, I created [**ADITS**](http://adits.world) in 2020 after spending too much time thinking about the simulation theory while on lockdown. First collection is out (Classic), with more coming in the near future. Cop it at [adits.world](http://adits.world).
+Inspired by Elon's _Occupy Mars_ t-shirt, I created [**ADITS**](http://adits.world) in 2018 after spending too much time thinking about the simulation theory. First collection is out (Classic) -- store is paused while I create a few more collections!
 
-## 🧬 React.js
+## 🧬 React Meetup
 
-I run the **React.js Green Bay meetup** — you can check out some of my presentations about [interacting with databases](https://www.youtube.com/watch?v=HVdMhKN2ng4&list=PL6ubUCP07zW6_AyMYUNohwKq2NQDlZigO&index=1), the [history of React state](https://www.youtube.com/watch?v=3bucBLOSUt0&list=PL6ubUCP07zW6_AyMYUNohwKq2NQDlZigO&index=3), or [integrating Storybook](https://www.youtube.com/watch?list=PL6ubUCP07zW6_AyMYUNohwKq2NQDlZigO&v=p2sZKAPOQXs&feature=emb_title). More info at the [Meetup](https://www.meetup.com/reactjs-green-bay/) page.
+I ran the **React.js meetup** in Green Bay — you can check out some of my presentations about [interacting with databases](https://www.youtube.com/watch?v=HVdMhKN2ng4&list=PL6ubUCP07zW6_AyMYUNohwKq2NQDlZigO&index=1), the [history of React state](https://www.youtube.com/watch?v=3bucBLOSUt0&list=PL6ubUCP07zW6_AyMYUNohwKq2NQDlZigO&index=3), or [integrating Storybook](https://www.youtube.com/watch?list=PL6ubUCP07zW6_AyMYUNohwKq2NQDlZigO&v=p2sZKAPOQXs&feature=emb_title).
 
 ## 🎏 Zen
 
@@ -24,13 +28,13 @@ With **[Zen](http://zen.glitch.me),** I wanted to create a small set of 'rooms' 
 
 It's built using [three.js](http://threejs.org) and runs on [Glitch](http://glitch.com), a really cool platform to build small projects.
 
-## ☁️ Salesforce Starter
-
-While at IBM I learned to develop in Salesforce and wrote some documentation for myself. I figured if anyone wants to save themselves a headache, they can avoid the endless Salesforce on-boarding docs and just read what I distilled [here](https://www.notion.so/bdbf8cd356184675b19451f8166e3add).
-
 ## 😸 Felist
 
 **[Felist](http://feli.st)** is a minimal organizer. I hated having to decide between a bunch of todo-list apps that were complete overkills for what I needed (I even [wrote a semi-popular post](https://medium.com/the-mission/searching-for-the-perfect-to-do-list-app-934a04f6328) about). So here's a sleek & minimal app to save you and me from todo-list oblivion.
+
+## ☁️ Salesforce Starter
+
+While at IBM I learned to develop in Salesforce and wrote some documentation for myself. I figured if anyone wants to save themselves a headache, they can avoid the endless Salesforce on-boarding docs and just read what I distilled [here](https://www.notion.so/bdbf8cd356184675b19451f8166e3add).
 
 ## 📚 Tutoring
 
