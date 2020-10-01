@@ -10,9 +10,9 @@ The idea came from a personal process I've been doing myself for the past few mo
 
 An iOS app made for those of us living one day at a time. Coming soon to the App Store!
 
-## 💖 Emosh
+## 🛹 Zero Skips
 
-[Emosh](https://emosh.substack.com) is a personally-curated 7-track playlist dropping every week. Subscribe [here](https://emosh.substack.com) to get it right in your inbox on Tuesday mornings.
+[Zero Skips](https://zeroskips.com) is a 7-track, zero-skips playlist dropping every week. Subscribe [here](https://zeroskips.substack.com/welcome) to get it in your inbox Tuesday mornings.
 
 ## 🐀 Another Day in the Simulation
 
