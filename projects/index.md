@@ -12,7 +12,7 @@ An iOS app made for those of us living one day at a time. Coming soon to the App
 
 ## 🛹 Zero Skips
 
-[Zero Skips](https://zeroskips.com) is a 7-track, zero-skips playlist dropping every week. Subscribe [here](https://zeroskips.substack.com/welcome) to get it in your inbox Tuesday mornings.
+[Zero Skips](http://zeroskips.com) is a 7-track, zero-skips playlist dropping every week. Subscribe [here](https://zeroskips.substack.com/welcome) to get it in your inbox Tuesday mornings.
 
 ## 🐀 Another Day in the Simulation
 
