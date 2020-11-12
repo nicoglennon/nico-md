@@ -2,21 +2,21 @@
 
 ## 🌼 Percent
 
-**[Percent](https://percent.me)** is a web app to track overarching life goals and analyze if you're actually sticking to them.
+[Percent](https://percent.me) is a system to track overarching life goals and analyze if you're actually sticking to them.
 
-The idea came from a personal process I've been doing myself for the past few months to track & quantify my life on a weekly basis — although the first version was a spreadsheet with a bunch of formulas, I thought I had enough feature ideas to justify building a standalone product.
+The idea came from a personal process I did myself for several months to quantify my life on a weekly basis — although the first version was a spreadsheet with a bunch of formulas, there were enough features to justify building a standalone product.
 
 ## 🔮 Someday
 
-An iOS app made for those of us living one day at a time. Coming soon to the App Store!
+An iOS app made for those of us living one day at a time. Get it [here](https://someday.im).
 
 ## 🛹 Zero Skips
 
-[Zero Skips](http://zeroskips.com) is a 7-track, zero-skips playlist dropping every week. Subscribe [here](https://zeroskips.substack.com/welcome) to get it in your inbox Tuesday mornings.
+[Zero Skips](http://zeroskips.com) is a 7-track, zero-skips playlist dropping every week. Subscribe [here](https://zeroskips.substack.com/welcome) to get it in your inbox Tuesday nights.
 
 ## 🐀 Another Day in the Simulation
 
-Inspired by Elon's _Occupy Mars_ t-shirt, I created [**ADITS**](http://adits.world) in 2018 after spending too much time thinking about the simulation theory. First collection is out (Classic) -- store is paused while I create a few more collections!
+Inspired by Elon's _Occupy Mars_ t-shirt, I created [ADITS](http://adits.world) in 2018 after spending too much time thinking about the simulation theory. First collection is out (Classic) -- store is paused while I create a few more collections!
 
 ## 🧬 React Meetup
 
@@ -24,13 +24,13 @@ I ran the **React.js meetup** in Green Bay — you can check out some of my pres
 
 ## 🎏 Zen
 
-With **[Zen](http://zen.glitch.me),** I wanted to create a small set of 'rooms' that would take me somewhere peaceful. I was feeling a lot of stress at the time and wished there was something pretty but boring to fall into for a quick mental break.
+With [Zen](http://zen.glitch.me), I wanted to create a small set of 'rooms' that would take me somewhere peaceful. I was feeling a lot of stress at the time and wished there was something pretty but boring to fall into for a quick mental break.
 
 It's built using [three.js](http://threejs.org) and runs on [Glitch](http://glitch.com), a really cool platform to build small projects.
 
 ## 😸 Felist
 
-**[Felist](http://feli.st)** is a minimal organizer. I hated having to decide between a bunch of todo-list apps that were complete overkills for what I needed (I even [wrote a semi-popular post](https://medium.com/the-mission/searching-for-the-perfect-to-do-list-app-934a04f6328) about). So here's a sleek & minimal app to save you and me from todo-list oblivion.
+[Felist](http://feli.st) is a minimal organizer. I hated having to decide between a bunch of todo-list apps that were complete overkills for what I needed (I even [wrote a semi-popular post](https://medium.com/the-mission/searching-for-the-perfect-to-do-list-app-934a04f6328) about). So here's a sleek & minimal app to save you and me from todo-list oblivion.
 
 ## ☁️ Salesforce Starter
 
